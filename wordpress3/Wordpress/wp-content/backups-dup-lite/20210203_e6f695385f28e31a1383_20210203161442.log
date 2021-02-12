@@ -1,0 +1,86 @@
+********************************************************************************
+DUPLICATOR-LITE PACKAGE-LOG: 3 February 2021 16h15
+NOTICE: Do NOT post to public sites or forums 
+********************************************************************************
+VERSION:	1.3.40.1
+WORDPRESS:	5.6
+PHP INFO:	7.3.21 | SAPI: apache2handler
+SERVER:		Apache/2.4.46 (Win64) PHP/7.3.21 
+PHP TIME LIMIT: (0) no time limit imposed 
+PHP MAX MEMORY: 4294967296 (128M default) 
+MEMORY STACK: 2MB
+
+********************************************************************************
+DATABASE:
+********************************************************************************
+BUILD MODE:   PHP(query limit - 100)
+MYSQLTIMEOUT: 5000
+MYSQLDUMP:    Not Supported
+TABLES: total:13 | filtered:0 | create:13
+FILTERED: []
+SQL CREATED: 20210203_e6f695385f28e31a1383_20210203161442_database.sql
+SQL FILE SIZE: 596.77KB (611094)
+SQL FILE TIME: 2021-02-03 16:15:07
+SQL RUNTIME: 0.40 sec.
+
+********************************************************************************
+ARCHIVE (ZIP):
+********************************************************************************
+ARCHIVE DIR:  C:/Users/59011-95-22/Documents/Wordpress
+ARCHIVE FILE: 20210203_e6f695385f28e31a1383_20210203161442_archive.zip
+FILTERS: *OFF*
+DIRS:
+	not set
+FILES:
+	not set
+EXTS:  not set
+----------------------------------------
+COMPRESSING
+SIZE:	58.72MB
+STATS:	Dirs 354 | Files 2,568
+SQL ADDED: 20210203_e6f695385f28e31a1383_20210203161442_database.sql
+ZipArchive Object
+(
+    [status] => 0
+    [statusSys] => 0
+    [numFiles] => 2922
+    [filename] => C:\Users\59011-95-22\Documents\Wordpress\wp-content\backups-dup-lite\tmp\20210203_e6f695385f28e31a1383_20210203161442_archive.zip
+    [comment] => 
+)
+
+FILE ADDED TO ZIP: 2921
+COMPRESSION RESULT: '1'
+COMPRESSED SIZE: 19.42MB
+ARCHIVE RUNTIME: 4.06 sec.
+MEMORY STACK: 4MB
+building installer
+add_extra_files1
+add_extra_files2
+add_extra_files3
+add_extra_files4
+Doing archive file check
+add_extra_files5
+add_extra_files6
+add_extra_files8
+Successfully opened zip C:/Users/59011-95-22/Documents/Wordpress/wp-content/backups-dup-lite/tmp/20210203_e6f695385f28e31a1383_20210203161442_archive.zip
+Adding enhanced installer files to archive using ZipArchive
+Installer files added to archive
+Added to archive
+After ziparchive close when adding installer
+
+********************************************************************************
+INTEGRITY CHECKS:
+********************************************************************************
+SQL FILE: 596.77KB
+INSTALLER FILE: 61.28KB
+ARCHIVE FILE: 20.91MB 
+COMPTE ATTENDU DE FICHIERS/RÉPERTOIRES : 2,922
+COMPTE ACTUEL DE FICHIERS/RÉPERTOIRES : 2,921
+TEST DE COHÉRENCE D’ARCHIVE : Bon
+
+********************************************************************************
+RECORD ID:[2]
+TOTAL PROCESS RUNTIME: 5.04 sec.
+PEAK PHP MEMORY USED: 4MB
+DONE PROCESSING => 20210203 3 February 2021 16h15
+
