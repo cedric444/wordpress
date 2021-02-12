@@ -1,0 +1,11 @@
+/*
+Theme Name: rock-star-enfant
+Description: Theme enfant de Cedric WPServeur
+Author: Cedric - WPServeur
+Author URI: https://www.wpserveur.net
+Template : rock-star
+Version: 0.1.0
+*/
+.site-header{
+    justify-content: center;
+}
